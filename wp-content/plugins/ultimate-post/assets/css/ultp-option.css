@@ -1,0 +1,778 @@
+/* ----Common--- */
+.ultp-option-body {
+    position: relative;
+    font-size: 15px;
+    max-width: calc( 100% + 20px);
+    display:block;
+    margin-left: -20px;
+}
+.ultp-admin-card {
+    background: #fff;
+    border: 1px solid #dedede;
+}
+.ultp-text-center {
+    text-align: center;
+}
+.ultp-admin-title {
+    position: relative;
+    padding-left: 20px;
+    padding-right: 20px;
+    display: inline-block;
+    margin: 0;
+    font-size: 32px;
+    line-height: 1.4;
+}
+.ultp-admin-title:before {
+    content: "";
+    position: absolute;
+    top: 50%;
+    height: 3px;
+    margin-top: 1px;
+    -webkit-transform: translateY(-50%);
+    transform: translateY(-50%);
+    -webkit-transition: .4s;
+    transition: .4s;
+    width: 60px;
+    background: #000;
+    right: -60px;
+}
+.ultp-admin-title:after {
+    content: "";
+    position: absolute;
+    top: 50%;
+    width: 60px;
+    height: 3px;
+    margin-top: 1px;
+    -webkit-transform: translateY(-50%);
+    transform: translateY(-50%);
+    left: -60px;
+    background: #000;
+}
+
+/* ----Header--- */
+.ultp-setting-header {
+    padding: 30px 40px;
+    margin-bottom: 20px;
+    box-sizing: border-box;
+    background: #fff;
+    text-align: center;
+    border-bottom: 1px solid #dedede;
+}
+.ultp-setting-header2 {
+    margin-bottom: 0;
+    border-bottom: none;
+}
+.ultp-setting-header img {
+    margin-left:auto;
+}
+.ultp-setting-header-info img {
+    margin-bottom: 8px;
+}
+.ultp-setting-header-info h1 {
+    margin: 0;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: normal;
+    color: #000;
+}
+.ultp-setting-header-info p {
+    font-size: 14px;
+    margin-top: 10px;
+    margin-bottom: 0;
+    font-weight:300;
+    color: #656565;
+}
+.ultp-setting-header-info p a {
+    margin-left: 5px;
+    text-decoration: none;
+    color: #037fff;
+}
+.ultp-setting-header-info p a span {
+    color: #FF9920;
+    margin-left: 7px;
+    font-size: 14px;
+    letter-spacing: 4px;
+}
+
+/* ----- Overview ----- */
+.ultp-overview {
+    padding: 40px;
+    text-align: center;
+}
+.ultp-overview iframe {
+    width: 100%;
+}
+
+/* ---- Promo --- */
+.ultp-promo-items {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    grid-gap: 20px;
+}
+.ultp-promo-item {
+    padding: 30px 20px;
+}
+.ultp-promo-item h4 {
+    margin: 0;
+    font-size: 20px;
+    font-weight: 300;
+    line-height: 1.3;
+}
+.ultp-promo-item h4 strong {
+    color: #000;
+}
+
+/* ---- Testimonials --- */
+.ultp-testimonial .ultp-text-center {
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.ultp-testimonial-items {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-column-gap: 30px;
+}
+.ultp-testimonial-item .ultp-admin-card {
+    background: #fff;
+    padding: 40px 35px 50px;
+    margin-bottom: 30px;
+    font-size: 18px;
+    line-height: 34px;
+    border: 1px solid #dedede;
+    transition: .4s;
+}
+.ultp-testimonial-item h3 {
+    margin-top: 35px;
+    font-size: 18px;
+    line-height: 24px;
+    margin-bottom: 10px;
+}
+.ultp-reviews-rating {
+    color: #FFB900;
+    line-height: 0;
+}
+
+/* ---- Compare --- */
+.ultp-compare-table-content {
+    margin: 40px auto 0;
+    max-width: 850px;
+}
+.ultp-compare-table-content table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    width: 100%;
+}
+.ultp-compare-table-content table tr th {
+    text-align: center;
+    border-top: 1px solid #DFDFDF;
+    padding: 25px 30px;
+    font-size: 24px;
+    border-radius: 0;
+    font-weight: 600;
+}
+.ultp-compare-table-content table tr th:first-child {
+    text-align: left;
+    border-top: 1px solid #DFDFDF;
+    border-left: 1px solid #DFDFDF;
+    border-right: 1px solid #DFDFDF;
+}
+.ultp-compare-table-content table tr th:nth-child(2) {
+    background: rgba(255,255,255,.49);
+}
+.ultp-compare-table-content table tr th:nth-child(3) {
+    background: #fff;
+    color: #149CFF;
+}
+.ultp-compare-table-content table tr th:last-child {
+    border-top: 1px solid #DFDFDF;
+    border-right: 1px solid #DFDFDF;
+    border-left: 1px solid #DFDFDF;
+}
+.ultp-compare-table-content table tr td {
+    border-bottom: 0 solid #DFDFDF;
+    border-right: 1px solid #DFDFDF;
+    border-top: 1px solid #DFDFDF;
+    padding: 20px 30px;
+    font-size: 16px;
+    text-align: center;
+}
+.ultp-compare-table-content table tr td:first-child {
+    border-left: 1px solid #DFDFDF;
+    border-top: 1px solid #DFDFDF;
+    text-align: left;
+}
+.ultp-compare-table-content table tr td:nth-child(2) {
+    background: rgba(255,255,255,.49);
+}
+.ultp-compare-table-content table tr td:nth-child(3) {
+    background: #fff;
+    color: #149CFF;
+}
+.ultp-compare-table-content table tr:last-child td {
+    border-bottom: 1px solid #DFDFDF;
+}
+.ultp-compare-table-content .ultp-compare-button {
+    margin-top: 40px;
+    text-align: right;
+}
+.ultp-compare-table-content .ultp-compare-button>a {
+    margin-left: 15px;
+}
+
+/* ---- Money Back --- */
+.ultp-money-back {
+    background: #fff;
+    padding: 40px 0;
+    margin-top: 60px;
+    margin-bottom: 40px;
+}
+.ultp-money-back-image {
+    margin-right: 30px;
+}
+.ultp-money-back-item {
+    display: flex;
+    align-items: flex-start;
+}
+.ultp-money-back-content {
+    flex: 1;
+}
+.ultp-money-back-content h3 {
+    font-size: 28px;
+    line-height: 1.4;
+    margin: 0 0 15px;
+}
+.ultp-money-back-content h3 span {
+   color: #B5B5B5;
+}
+.ultp-money-back-content div {
+    font-size: 16px;
+    line-height: 1.6;
+    margin-bottom: 25px;
+}
+
+/* ---- Addons --- */
+.ultp-content-wrap.ultp-addons-wrap {
+    margin-top: 30px;
+}
+.ultp-addons-items {
+    max-width: 750px;
+    margin: 40px auto 0;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-column-gap: 50px;
+    grid-row-gap: 40px;
+}
+.ultp-addons-item {
+    display: flex;
+    flex-wrap: wrap;
+}
+.ultp-addons-item-content {
+    padding: 20px;
+}
+.ultp-addons-item-content img { 
+    width: 85px;
+    float: left;
+    margin-right: 15px;
+}
+.ultp-addons-item h4 {
+    padding: 0 25px;
+    font-size: 18px;
+    color: #000;
+    margin-top: 5px;
+    margin-bottom: 8px;
+}
+.ultp-addons-item .ultp-addons-desc {
+    font-size: 14px;
+    color: #5A5A5A;
+}
+.ultp-addons-btn {
+    padding: 15px;
+    background: #ececec;
+    text-align: center;
+    border-top: 1px solid #d4d4d4;
+    width: 100%;
+}
+.ultp-addons-btn a {
+    display: inline-block;
+    border: 1px solid #037fff;
+    color: #037fff;
+    padding: 10px 20px;
+}
+.ultp-switch {
+    position: relative;
+    display: inline-block;
+    width: 50px;
+    height: 24px;
+}
+.ultp-switch input {
+    opacity: 0;
+    width: 0;
+    height: 0;
+}
+.ultp-slider {
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #ccc;
+    -webkit-transition: .4s;
+    transition: .4s;
+}
+.ultp-slider:before {
+    position: absolute;
+    content: "";
+    height: 20px;
+    width: 20px;
+    left: 2px;
+    bottom: 2px;
+    background-color: white;
+    -webkit-transition: .4s;
+    transition: .4s;
+}
+input:checked + .ultp-slider {
+    background-color: #037fff;
+}
+input:focus + .ultp-slider {
+    box-shadow: 0 0 1px #037fff;
+}
+input:checked + .ultp-slider:before {
+    -webkit-transform: translateX(26px);
+    -ms-transform: translateX(26px);
+    transform: translateX(26px);
+}
+.ultp-slider.ultp-round {
+    border-radius: 100px;
+}
+.ultp-slider.ultp-round:before {
+    border-radius: 50%;
+}
+
+/* ---- Features --- */
+.ultp-features {
+    padding: 60px 100px;
+}
+.ultp-feature-items {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 70px;
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+.ultp-features .ultp-text-center {
+    margin: 0 auto;
+}
+.ultp-features .ultp-text-center a {
+    display: inline-block;
+}
+.ultp-feature-image img {
+    max-width: 100%;
+    box-shadow: 0 10px 15px -5px rgba(0, 0, 0, 20%);
+}
+.ultp-feature-content h4 {
+    font-size: 20px;
+    line-height: 1.4;
+    color: #000;
+    margin: 25px 0 12px;
+}
+.ultp-feature-content div {
+    line-height: 1.8;
+    font-size: 14px;
+}
+
+/* featured item */
+.ultp-featured-item {
+    display: grid;
+    grid-template-columns: 450px 1fr;
+    align-items: center;
+}
+.ultp-featured-image {
+    line-height: 0;
+}
+.ultp-featured-image img {
+    max-width: 450px;
+}
+.ultp-featured-content {
+    padding: 30px;
+    max-width: 400px;
+}
+.ultp-featured-content h4 {
+    margin: 0;
+    font-size: 24px;
+    color: #000;
+}
+.ultp-featured-content a {
+    display: inline-block;
+    padding: 14px 22px;
+    font-size: 14px;
+}
+.ultp-featured-content p {
+    padding: 16px 0;
+    margin: 0;
+    line-height: 22px;
+}
+
+/* ---- Helps --- */
+.ultp-helps-items {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 20px;
+}
+.ultp-helps-item {
+    padding: 30px;
+}
+.ultp-helps-item h4 {
+    margin: 0 0 10px;
+    list-style: 1.4;
+    font-size: 20px;
+    color: #000;
+}
+.ultp-helps-item div {
+    line-height: 1.6;
+}
+.ultp-helps-item a {
+    display: inline-block;
+    margin-top: 20px;
+}
+
+/* ----Sidebar--- */
+.ultp-sidebar {
+    padding: 25px;
+}
+.ultp-sidebar-card {
+    padding: 0 20px 25px;
+    margin-bottom: 30px;
+}
+.ultp-sidebar-title {
+    margin: 0 -20px 0;
+    background: #FAFAFA;
+    padding: 15px 20px;
+    font-size: 16px;
+    border-bottom: 1px solid #EEEEEE;
+    color: #037fff;
+}
+.ultp-sidebar-card h4 {
+    color: #000;
+    margin-top: 25px;
+}
+.ultp-sidebar-list {
+    list-style: none;
+    padding: 0;
+    margin-bottom: 30px;
+}
+.ultp-sidebar-list li {
+    font-size: 13px;
+    padding: 0 20px;
+    position: relative;
+    margin-right: auto;
+    line-height: 24px;
+}
+.ultp-sidebar-list li:after {
+    content: "";
+    left: 0;
+    width: 8px;
+    height: 8px;
+    border-radius: 100px;
+    background: #c1c1c1;
+    position: absolute;
+    top: 50%;
+    margin-top: -3px;
+}
+.ultp-sidebar-content {
+    margin-top: 25px;
+}
+
+/* ----Tab--- */
+.ultp-content-wrap {
+    padding: 20px;
+    max-width: 1110px;
+    margin: 0 auto;
+    box-sizing: border-box;
+}
+.ultp-overview-wrap {
+    display: flex;
+}
+.ultp-tab-content-wrap {
+    width: 70%;
+    margin-right: 30px;
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 70%;
+    flex: 0 0 70%;
+    max-width: 70%;
+}
+
+.ultp-tab-title-wrap{
+    padding: 10px 40px 0;
+    margin-bottom: 20px;
+    background-color: #f2f2f2;
+    text-align: center;
+}
+.ultp-tab-title{
+    font-weight: 300;
+    color: #555;
+    font-size: 16px;
+    display: inline-block;
+    margin-right: 25px;
+    padding: 5px 0 15px;
+    font-weight: 500;
+}
+.ultp-tab-title:hover{
+    cursor: pointer;
+}
+.ultp-tab-title.active{
+    border-bottom: 1px solid #037fff;
+    color: #037fff;
+    margin-bottom: -3px;
+}
+.ultp-tab-content{
+    display: none;
+}
+.ultp-tab-content.active{
+    display: block;
+}
+
+/* ----Settings--- */
+.ultp-settings-wrap {
+    margin-bottom: 20px;
+    display: grid;
+    grid-template-columns: 0.6fr 1fr;
+    text-align: left;
+}
+.ultp-settings-field-inline input,
+.ultp-settings-field-inline .description {
+    display: inline-block;
+}
+
+/* ---Changelog--- */
+.ultp-changelog-wrap {
+    background-color: #ffffff;
+    margin: 0 auto 30px;
+    padding: 25px 30px;
+    position: relative;
+    box-shadow: 0 0 10px -5px rgba(0,0,0,0.5);
+}
+.ultp-changelog-date{
+    font-size: 14px;
+    display: inline-block;
+    right: 30px;
+    position: absolute;
+    font-weight: 300;
+}
+.ultp-changelog-version{
+    font-size: 16px;
+    color: #000000;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+.ultp-changelog-title {
+    text-transform: capitalize;
+    font-size: 14px;
+    color: #555555;
+    line-height: 28px;
+    font-weight: 300;
+    margin-bottom: 8px;
+}
+.ultp-changelog-title > span {
+    padding: 2px 10px;
+    border-radius: 3px;
+    margin-right: 10px;
+}
+.changelog-fix{
+    color: #721c24;
+    background-color: #f8d7da;
+    border-color: #f5c6cb;
+}
+.changelog-update{
+    color: #856404;
+    background-color: #fff3cd;
+    border-color: #ffeeba;
+}
+.changelog-new{
+    color: #155724;
+    background-color: #d4edda;
+    border-color: #c3e6cb;
+}
+
+
+/* ---- Button --- */
+.ultp-overview-btn {
+    margin-top: 30px;
+}
+.ultp-overview-btn a {
+    margin: 0 5px;
+    display: inline-block;
+}
+.ultp-overview-btn a:focus {
+    box-shadow: none;
+    outline-offset: 0;
+}
+.ultp-btn {
+    text-decoration: none;
+    padding: 15px 35px;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 1;
+    transition: 400ms;
+    border-radius: 2px;
+}
+.ultp-btn-primary {
+    background: #037fff;
+    color: #fff;
+}
+.ultp-setting-header-img {
+    max-width: 180px;
+}
+.ultp-btn-primary:hover,
+.ultp-btn-primary:focus,
+.ultp-btn-default:hover,
+.ultp-btn-default:focus {
+    background: #0674e5;
+    color: #fff;
+    box-shadow: none;
+    outline: 0;
+}
+.ultp-btn-default:hover,
+.ultp-btn-default:focus {
+    border: 1px solid #0674e5;
+}
+.ultp-btn-transparent {
+    color: #037fff;
+    box-shadow: inset 0 0 0 2px #037fff;
+}
+.ultp-overview-btn a.ultp-btn-transparent:focus {
+    box-shadow: inset 0 0 0 2px #0674e5;
+}
+.ultp-btn-transparent:hover {
+    color: #fff;
+    background: #0674e5;
+    box-shadow: inset 0 0 0 2px #0674e5;
+}
+.ultp-btn-pro {
+    background: #ff9f11;
+    color: #fff;
+}
+.ultp-btn-pro:hover {
+    background: #D3820A;
+    color: #fff;
+}
+.ultp-sidebar .ultp-btn-pro {
+    display: inline-block;
+}
+
+/* Saved Template */
+.ultp-save-templates-pro {
+    color: #46b450 !important;
+    border-color: #46b450 !important;
+}
+.ultp-save-templates-pro:hover {
+    color: #379c40 !important;
+    border-color: #379c40 !important;
+}
+.ultp-save-templates-pro:focus {
+    color: #379c40 !important;
+    border-color: #379c40 !important;
+    box-shadow: none !important;
+}
+
+/* ----Responsive--- */
+@media (max-width: 1500px) {
+    .ultp-overview {
+        flex-wrap: wrap;
+        flex-direction: column-reverse;
+    }
+    .ultp-overview-content {
+        max-width: 100%;
+    }
+    .ultp-overview-video {
+        margin-bottom: 40px;
+    }
+    .ultp-overview-video iframe {
+        width: 640px;
+        height: 360px;
+        box-shadow: 0 0 10px -5px rgba(0,0,0,0.5);
+    }
+    .ultp-video-tutorials {
+        grid-template-columns: 1fr 1fr;
+    }
+}
+@media (max-width: 1400px) {
+    .ultp-sidebar-card .button.button-primary {
+        text-align: center;
+        display: block;
+    }
+    .ultp-sidebar-card .button.button-success {
+        text-align: center;
+        display: block;
+        margin-left: 0;
+        margin-top: 10px;
+    }
+}
+@media (max-width: 1200px) {
+    .ultp-overview-wrap {
+        flex-wrap: wrap;
+    }
+    .ultp-content-wrap {
+        flex-wrap: wrap;
+    }
+    .ultp-tab-content-wrap {
+        width: 100%;
+        margin-right: 0;
+        -webkit-box-flex: 0;
+        -ms-flex: 0 0 100%;
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+    .ultp-admin-sidebar {
+        margin-top: 40px;
+    }
+    .ultp-admin-sidebar {
+        width: 100%;
+        margin-top: 30px;
+    }
+}
+@media (max-width: 1000px) {
+    .ultp-setting-header-info h1 {
+        font-size: 28px;
+    }
+    .ultp-overview-video iframe {
+        width: 350px;
+        height: 250px;
+    }
+    .ultp-setting-header {
+        padding: 20px 30px;
+    }
+    .ultp-tab-title-wrap {
+        padding: 0 30px;
+    }
+    .ultp-overview {
+        padding: 30px;
+    }
+    .ultp-video-tutorials {
+        grid-template-columns: 1fr;
+    }
+    .ultp-promo-items,
+    .ultp-helps-items {
+        grid-template-columns: 1fr 1fr; 
+    }
+    .ultp-feature-items{
+        grid-gap: 30px;
+        margin-top: 40px;
+        margin-bottom: 40px;
+    }
+    .ultp-features {
+        padding: 40px 20px;
+    }
+    .ultp-featured-item {
+        grid-template-columns: 1fr; 
+    }
+    .ultp-featured-image img {
+        max-width: 100%;
+    }
+}
+.ultp-dashboard-upgrade{
+    color: #adff2f;
+}
+.interface-interface-skeleton__editor {
+	overflow-y: hidden
+}

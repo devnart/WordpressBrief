@@ -1,0 +1,120 @@
+body.rtl { 
+   direction: rtl; 
+   unicode-bidi: embed; 
+}
+
+/* backend editor */
+.rtl .ultp-popup-select .ultp-search-icon {
+    position: absolute;
+    right: auto;
+    left: 10px;
+}
+.rtl .ultp-field-color2 .ultp-sub-field {
+    margin-right: auto;
+    margin-left: 0;
+}
+.rtl .ultp-button-group .ultp-base-control-btn {
+    margin-right: 0;
+    margin-left: 8px;
+}
+.rtl .ultp-button-group span {
+    border-radius: 0 3px 3px 0;
+}
+.rtl .ultp-button-group span:last-child {
+    border-right: none;
+    border-left: 1px solid #d4d4d4;
+    border-radius: 3px 0 0 3px;
+}
+.rtl .ultp-field-toggle .ultp-sub-field {
+    float: left;
+}
+.rtl .components-toggle-control .components-base-control__field .components-form-toggle {
+    margin-left: 0;
+    margin-right: 16px;
+}
+.rtl .ultp-label-control label {
+    margin-right: 0;
+    margin-left: 5px;
+}
+.rtl .ultp-field-color .ultp-clear,
+.rtl .ultp-field-select .ultp-multiple-value > span,
+.rtl .ultp-edit-btn .ultp-base-control-btn.dashicons-image-rotate{
+    margin-right: 0;
+    margin-left: 4px;
+}
+.rtl .ultp-field-select .ultp-multiple-value > span span.ultp-select-close {
+    margin-left: 0;
+    margin-right: 4px;
+}
+
+/* filter */
+.rtl .ultp-heading-filter .ultp-filter-navigation {
+    left: 0;
+    justify-content: flex-end;
+    right: auto;
+}
+.rtl .ultp-next-prev-wrap ul li {
+    margin-right: 0;
+    margin-left: 5px;
+}
+.rtl .ultp-heading-filter .ultp-next-prev-wrap {
+    margin-left: 0;
+    margin-right: 15px;
+}
+.rtl .ultp-next-prev-wrap ul li:last-child {
+    margin-left: 0;
+}
+.rtl .ultp-heading-style11 .ultp-heading-btn svg {
+    transform: rotate(180deg);
+    margin-left: 0;
+    margin-right: 5px;
+}
+.rtl .ultp-next-page-numbers svg {
+    transform: rotate(180deg); 
+}
+.rtl .ultp-prev-page-numbers svg {
+    transform: rotate(180deg); 
+}
+.rtl .ultp-prev-action svg {
+    transform: rotate(180deg); 
+}
+.rtl .ultp-next-action svg {
+    transform: rotate(180deg); 
+}
+
+/* block */
+.rtl .ultp-block-meta span:first-child, .ultp-block-meta.ultp-block-meta-style6 span:nth-child(2) {
+    padding-right: 0!important;
+}
+
+/* meta */
+.rtl .ultp-block-meta.ultp-block-meta-dot span:after,
+.rtl .ultp-block-meta.ultp-block-meta-verticalbar span:after {
+    left: auto;
+    right: -1px;
+}
+.rtl .ultp-block-meta.ultp-block-meta-slash span:after {
+    left: auto;
+    right: -2px;
+}
+.rtl .ultp-block-meta.ultp-block-meta-close span:after,
+.rtl .ultp-block-meta.ultp-block-meta-doubleslash span:after{
+    left: auto;
+    right: -4px;
+}
+.rtl .ultp-block-meta.ultp-block-meta-dash span:after {
+    left: auto;
+    right: -3px;
+}
+.rtl .ultp-block-meta span i {
+    margin-right: 0;
+    margin-left: 4px;
+}
+.rtl .ultp-meta-author-img {
+    margin-right: 0;
+    margin-left: 5px;
+}
+.rtl .ultp-block-meta.ultp-block-meta-style5 .ultp-meta-body span:nth-child(2) {
+    padding-left: inherit;
+    padding-right: 0;
+}

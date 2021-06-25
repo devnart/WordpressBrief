@@ -1,0 +1,2620 @@
+# Copyright (C) 2021 wpxpo
+# This file is distributed under the same license as the PostX - Gutenberg Post Grid Blocks plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: PostX - Gutenberg Post Grid Blocks 2.2.6\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/ultimate-post\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-04-12T05:59:55+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.4.0\n"
+"X-Domain: ultimate-post\n"
+
+#. Plugin Name of the plugin
+msgid "PostX - Gutenberg Post Grid Blocks"
+msgstr ""
+
+#. Description of the plugin
+msgid "Gutenberg Post blocks is a Gutenberg block Plugin for creating dynamic blog listing, grid and slider."
+msgstr ""
+
+#. Author of the plugin
+msgid "wpxpo"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://wpxpo.com/"
+msgstr ""
+
+#: addons/elementor/Elementor_Widget.php:11
+#: classes/Initialization.php:305
+msgid "PostX - Gutenberg Post Blocks"
+msgstr ""
+
+#: addons/elementor/Elementor_Widget.php:40
+msgid "Settings"
+msgstr ""
+
+#: addons/elementor/Elementor_Widget.php:82
+msgid "Please Select Your Saved Template."
+msgstr ""
+
+#: addons/elementor/init.php:7
+msgid "Elementor Addons"
+msgstr ""
+
+#: addons/elementor/init.php:8
+msgid "Enable Elementor Addons for Elementor Website Builder."
+msgstr ""
+
+#: addons/templates/init.php:7
+#: addons/templates/Saved_Templates.php:55
+#: addons/templates/Saved_Templates.php:57
+msgid "Saved Templates"
+msgstr ""
+
+#: addons/templates/init.php:8
+msgid "Create Short-codes and use them inside your page or page builder."
+msgstr ""
+
+#: addons/templates/Saved_Templates.php:37
+msgid "Shortcode"
+msgstr ""
+
+#: addons/templates/Saved_Templates.php:53
+msgctxt "Templates"
+msgid "Saved Templates"
+msgstr ""
+
+#: addons/templates/Saved_Templates.php:54
+msgctxt "Templates"
+msgid "Saved Template"
+msgstr ""
+
+#: addons/templates/Saved_Templates.php:56
+msgid "Parent Template"
+msgstr ""
+
+#: addons/templates/Saved_Templates.php:58
+msgid "View Template"
+msgstr ""
+
+#: addons/templates/Saved_Templates.php:59
+#: addons/templates/Saved_Templates.php:60
+msgid "Add New Template"
+msgstr ""
+
+#: addons/templates/Saved_Templates.php:61
+msgid "Edit Template"
+msgstr ""
+
+#: addons/templates/Saved_Templates.php:62
+msgid "Update Template"
+msgstr ""
+
+#: addons/templates/Saved_Templates.php:63
+msgid "Search Template"
+msgstr ""
+
+#: addons/templates/Saved_Templates.php:64
+msgid "No Template Found"
+msgstr ""
+
+#: addons/templates/Saved_Templates.php:65
+msgid "Not Template found in Trash"
+msgstr ""
+
+#: blocks/Heading.php:718
+#: blocks/Image.php:582
+#: assets/js/editor.blocks.min.js:1
+msgid "Image"
+msgstr ""
+
+#: blocks/Heading.php:719
+#: blocks/Image.php:583
+msgid "Show heading or title with ultimate controls."
+msgstr ""
+
+#: blocks/Post_Grid_1.php:2271
+#: assets/js/editor.blocks.min.js:1
+msgid "Post Grid #1"
+msgstr ""
+
+#: blocks/Post_Grid_1.php:2272
+msgid "Post grid with classic style."
+msgstr ""
+
+#: blocks/Post_Grid_1.php:2378
+#: blocks/Post_Grid_2.php:2261
+#: blocks/Post_Grid_3.php:2303
+#: blocks/Post_Grid_4.php:2241
+#: blocks/Post_Grid_5.php:2217
+#: blocks/Post_Grid_6.php:2237
+#: blocks/Post_Grid_7.php:2229
+#: blocks/Post_List_1.php:2365
+#: blocks/Post_List_2.php:2580
+#: blocks/Post_List_3.php:2589
+#: blocks/Post_List_4.php:2556
+#: blocks/Post_Module_1.php:2513
+#: blocks/Post_Module_2.php:2502
+#: blocks/Post_Slider_1.php:2219
+#: assets/js/editor.blocks.min.js:1
+msgid "Read More"
+msgstr ""
+
+#: blocks/Post_Grid_2.php:2152
+#: assets/js/editor.blocks.min.js:1
+msgid "Post Grid #2"
+msgstr ""
+
+#: blocks/Post_Grid_2.php:2153
+msgid "Post grid with gradient image overlay style."
+msgstr ""
+
+#: blocks/Post_Grid_3.php:2195
+#: assets/js/editor.blocks.min.js:1
+msgid "Post Grid #3"
+msgstr ""
+
+#: blocks/Post_Grid_3.php:2196
+msgid "Post grid with top big posts overlay style."
+msgstr ""
+
+#: blocks/Post_Grid_4.php:2133
+#: assets/js/editor.blocks.min.js:1
+msgid "Post Grid #4"
+msgstr ""
+
+#: blocks/Post_Grid_4.php:2134
+#: blocks/Post_Grid_5.php:2121
+#: blocks/Post_Grid_7.php:2122
+msgid "Post grid with left big posts overlay style."
+msgstr ""
+
+#: blocks/Post_Grid_5.php:2120
+#: assets/js/editor.blocks.min.js:1
+msgid "Post Grid #5"
+msgstr ""
+
+#: blocks/Post_Grid_6.php:2129
+#: assets/js/editor.blocks.min.js:1
+msgid "Post Grid #6"
+msgstr ""
+
+#: blocks/Post_Grid_7.php:2121
+#: assets/js/editor.blocks.min.js:1
+msgid "Post Grid #7"
+msgstr ""
+
+#: blocks/Post_List_1.php:2262
+#: assets/js/editor.blocks.min.js:1
+msgid "Post List #1"
+msgstr ""
+
+#: blocks/Post_List_1.php:2263
+msgid "Listing your post with classic style."
+msgstr ""
+
+#: blocks/Post_List_2.php:2470
+#: assets/js/editor.blocks.min.js:1
+msgid "Post List #2"
+msgstr ""
+
+#: blocks/Post_List_2.php:2471
+#: blocks/Post_List_4.php:2447
+#: blocks/Post_Module_1.php:2408
+#: blocks/Post_Module_2.php:2398
+msgid "Listing your post with top big post."
+msgstr ""
+
+#: blocks/Post_List_3.php:2481
+#: assets/js/editor.blocks.min.js:1
+msgid "Post List #3"
+msgstr ""
+
+#: blocks/Post_List_3.php:2482
+msgid "Listing your post with left side image."
+msgstr ""
+
+#: blocks/Post_List_4.php:2446
+#: assets/js/editor.blocks.min.js:1
+msgid "Post List #4"
+msgstr ""
+
+#: blocks/Post_Module_1.php:2407
+#: assets/js/editor.blocks.min.js:1
+msgid "Post Module #1"
+msgstr ""
+
+#: blocks/Post_Module_2.php:2397
+#: assets/js/editor.blocks.min.js:1
+msgid "Post Module #2"
+msgstr ""
+
+#: blocks/Post_Slider_1.php:2144
+#: assets/js/editor.blocks.min.js:1
+msgid "Post Slider #1"
+msgstr ""
+
+#: blocks/Post_Slider_1.php:2145
+#: assets/js/editor.blocks.min.js:1
+msgid "Dynamic post slider with lots of settings."
+msgstr ""
+
+#: blocks/Taxonomy.php:1422
+#: assets/js/editor.blocks.min.js:1
+msgid "Taxonomy"
+msgstr ""
+
+#: blocks/Taxonomy.php:1423
+msgid "Show your taxonomy list/grid."
+msgstr ""
+
+#: blocks/template/data.php:17
+#: classes/REST_API.php:185
+msgid " min read"
+msgstr ""
+
+#: blocks/template/meta.php:8
+#: blocks/template/meta.php:9
+#: blocks/template/meta.php:11
+#: assets/js/editor.blocks.min.js:1
+msgid "By"
+msgstr ""
+
+#: blocks/template/meta.php:16
+#: assets/js/editor.blocks.min.js:1
+msgid " comments"
+msgstr ""
+
+#: blocks/template/meta.php:18
+msgid " views"
+msgstr ""
+
+#: blocks/template/meta.php:20
+#: blocks/template/meta.php:21
+msgid " ago"
+msgstr ""
+
+#: classes/Deactive.php:75
+msgid "Want to help make <strong style=\"padding:0 5px;\"> %1$s </strong> even more awesome? Allow %1$s to collect <a style=\"padding:0 5px;\" href=\"https://www.wpxpo.com/data-collection-policy/\" target=\"_blank\">non-sensitive</a> diagnostic data and usage information."
+msgstr ""
+
+#: classes/Deactive.php:76
+msgid "Allow"
+msgstr ""
+
+#: classes/Deactive.php:77
+msgid "No Thanks"
+msgstr ""
+
+#: classes/Deactive.php:143
+msgid "I no longer need the plugin."
+msgstr ""
+
+#: classes/Deactive.php:148
+msgid "I found a better plugin."
+msgstr ""
+
+#: classes/Deactive.php:149
+msgid "Please share which plugin."
+msgstr ""
+
+#: classes/Deactive.php:154
+msgid "The plugin suddenly stopped working."
+msgstr ""
+
+#: classes/Deactive.php:155
+msgid "Please share more details."
+msgstr ""
+
+#: classes/Deactive.php:160
+msgid "I could not get the plugin to work."
+msgstr ""
+
+#: classes/Deactive.php:165
+msgid "It's a temporary deactivation."
+msgstr ""
+
+#: classes/Deactive.php:170
+msgid "Other."
+msgstr ""
+
+#: classes/Deactive.php:171
+msgid "Please share the reason."
+msgstr ""
+
+#: classes/Deactive.php:199
+msgid "Quick Feedback"
+msgstr ""
+
+#: classes/Deactive.php:204
+msgid "If you have a moment, please let us know why you are deactivating PostX:"
+msgstr ""
+
+#: classes/Deactive.php:221
+msgid "Submit & Deactivate"
+msgstr ""
+
+#: classes/Deactive.php:222
+msgid "Skip & Deactivate"
+msgstr ""
+
+#: classes/Functions.php:535
+#: classes/Functions.php:701
+#: assets/js/editor.blocks.min.js:1
+msgid "Previous"
+msgstr ""
+
+#: classes/Functions.php:536
+#: classes/Functions.php:706
+#: assets/js/editor.blocks.min.js:1
+msgid "Next"
+msgstr ""
+
+#: classes/Notice.php:58
+msgid "Special offer for <strong>PostX - Gutenberg Post Blocks</strong>. Limited time offer. You can get <strong style=\"color:#e5561e;\">up to 45% Off</strong> for all premium features."
+msgstr ""
+
+#: classes/Notice.php:59
+msgid "Get Now"
+msgstr ""
+
+#: classes/Options.php:39
+msgid "Docs"
+msgstr ""
+
+#: classes/Options.php:40
+msgid "Tutorials"
+msgstr ""
+
+#: classes/Options.php:41
+msgid "Support"
+msgstr ""
+
+#: classes/Options.php:60
+#: assets/js/editor.blocks.min.js:1
+msgid "Go Pro"
+msgstr ""
+
+#: classes/Options.php:76
+#: classes/Options.php:77
+msgid "Post Blocks"
+msgstr ""
+
+#: classes/options/Addons.php:14
+#: assets/js/editor.blocks.min.js:1
+msgid "Category"
+msgstr ""
+
+#: classes/options/Addons.php:15
+msgid "Set your category-specific color and image for your block design."
+msgstr ""
+
+#: classes/options/Addons.php:39
+msgid "All Addons"
+msgstr ""
+
+#: classes/options/Addons.php:53
+#: assets/js/editor.blocks.min.js:1
+msgid "Get Pro"
+msgstr ""
+
+#: classes/options/Features.php:21
+msgid "Pro Features"
+msgstr ""
+
+#: classes/options/Features.php:28
+msgid "Quick Query Builder"
+msgstr ""
+
+#: classes/options/Features.php:29
+msgid "With a single click, you can change your query, no coding skill is required whatsoever. Most Comments, Most Popular, Latest Posts, and many more pre-defined queries are available for your convenience."
+msgstr ""
+
+#: classes/options/Features.php:37
+#: classes/options/Features.php:110
+#: assets/js/editor.blocks.min.js:1
+msgid "Starter Packs"
+msgstr ""
+
+#: classes/options/Features.php:38
+msgid "A large number of starter packs and pre-made designs are added to our starter pack library. So, you don’t need any designing skills on your part. Simply, choose, click, and import."
+msgstr ""
+
+#: classes/options/Features.php:47
+msgid "Ready-made Designs"
+msgstr ""
+
+#: classes/options/Features.php:48
+msgid "A large number of readymade designs and pre-made layouts are added to our starter pack library. You no longer need any designing skills on your part. Simply, choose, click, and import."
+msgstr ""
+
+#: classes/options/Features.php:57
+#: classes/options/Features.php:125
+msgid "Image Loading"
+msgstr ""
+
+#: classes/options/Features.php:58
+msgid "Image loading issues result in bad user experiences for your visitors and users. To improve the user experience, we have added an image lazy loading feature. Your users need not suffer any longer."
+msgstr ""
+
+#: classes/options/Features.php:63
+#: classes/options/Overview.php:135
+msgid "More Features"
+msgstr ""
+
+#: classes/options/Features.php:69
+msgid "Reviews & Testimonials"
+msgstr ""
+
+#: classes/options/Features.php:73
+msgid "Plugin is excellent! Thank you for rarely a good great free plugin! To many options, easy to use.I really needed this plugin for the site i’m developing! No errors(bug)! I strongly recommend it! Please next update give to us ???? in options “Order By”: more option like: hits, most popular,last 24hour! Of course if possible"
+msgstr ""
+
+#: classes/options/Features.php:74
+msgid "@blumen – A lot of option easy to use!"
+msgstr ""
+
+#: classes/options/Features.php:78
+msgid "I have been searching for hours for a plugin like this. Tried all plugins and this is the best! It’s wonderful, easy to use and so many themes to choose from. I can’t believe it’s free!"
+msgstr ""
+
+#: classes/options/Features.php:79
+msgid "@laursen299 – Lot of options and works well"
+msgstr ""
+
+#: classes/options/Features.php:85
+msgid "I was surprised by the versatility of this plugin. It’s great the other and most important thing is I contacted the developers and they have resolved both my doubts and fixed some minor problems. Thank you!!!!!"
+msgstr ""
+
+#: classes/options/Features.php:86
+msgid "@mparraud – Really good plugin!"
+msgstr ""
+
+#: classes/options/Features.php:90
+msgid "A great plugin for a blog or news site, with its help you can create not only the main page, but also display similar or recent posts by tags or categories, add exceptions. It has many ready-made styles that you can refine yourself, as there is a block for custom code."
+msgstr ""
+
+#: classes/options/Features.php:91
+msgid "@nalitana – There are no analogues"
+msgstr ""
+
+#: classes/options/Features.php:99
+msgid "Free Vs Pro Comparison"
+msgstr ""
+
+#: classes/options/Features.php:104
+#: classes/options/Overview.php:95
+msgid "Core Features"
+msgstr ""
+
+#: classes/options/Features.php:105
+#: assets/js/editor.blocks.min.js:1
+msgid "Free"
+msgstr ""
+
+#: classes/options/Features.php:106
+#: assets/js/editor.blocks.min.js:1
+msgid "Pro"
+msgstr ""
+
+#: classes/options/Features.php:115
+msgid "Ready-made Block Design"
+msgstr ""
+
+#: classes/options/Features.php:120
+msgid "Advanced Quick Query"
+msgstr ""
+
+#: classes/options/Features.php:130
+msgid "Priority Support"
+msgstr ""
+
+#: classes/options/Features.php:135
+msgid "Specific Category Color"
+msgstr ""
+
+#: classes/options/Features.php:142
+msgid "Live Demo"
+msgstr ""
+
+#: classes/options/Features.php:143
+msgid "Buy Now"
+msgstr ""
+
+#: classes/options/Features.php:152
+msgid "Money Back"
+msgstr ""
+
+#: classes/options/Features.php:155
+msgid "100% No-Risk Money Back Guarantee! <span>(No questions asked!)</span>"
+msgstr ""
+
+#: classes/options/Features.php:156
+msgid "You are fully protected by our 100% No-Risk Double-Guarantee. If you don’t like  plugins over the next 14 days, then we will happily refund 100% of your money."
+msgstr ""
+
+#: classes/options/Features.php:157
+msgid "Credit Cards"
+msgstr ""
+
+#: classes/options/Footer.php:4
+msgid "Documentations"
+msgstr ""
+
+#: classes/options/Footer.php:5
+msgid "Got a question? Read our super rich documentation and solve your problem ASAP."
+msgstr ""
+
+#: classes/options/Footer.php:6
+msgid "Documentation"
+msgstr ""
+
+#: classes/options/Footer.php:9
+msgid "Submit Your Review"
+msgstr ""
+
+#: classes/options/Footer.php:10
+msgid "Are you satisfied with this plugin? Submit your valuable review in Wordpress directory."
+msgstr ""
+
+#: classes/options/Footer.php:11
+msgid "Leave a Review"
+msgstr ""
+
+#: classes/options/Footer.php:14
+msgid "Need any Helps"
+msgstr ""
+
+#: classes/options/Footer.php:15
+msgid "Have you any questions? Our super fast support ninja is waiting for your problems."
+msgstr ""
+
+#: classes/options/Footer.php:17
+msgid "Submit a Ticket »"
+msgstr ""
+
+#: classes/options/Heading.php:3
+msgid "PostX"
+msgstr ""
+
+#: classes/options/Heading.php:5
+msgid "Welcome to <strong>PostX</strong> - Version"
+msgstr ""
+
+#: classes/options/Heading.php:7
+msgid "Most Powerful & Advanced Gutenberg Post Blocks"
+msgstr ""
+
+#: classes/options/Heading.php:7
+msgid "Rate the plugin"
+msgstr ""
+
+#: classes/options/Overview.php:33
+#: assets/js/editor.blocks.min.js:1
+msgid "Live Preview"
+msgstr ""
+
+#: classes/options/Overview.php:34
+msgid "Plugin Details"
+msgstr ""
+
+#: classes/options/Overview.php:41
+msgid "Plugins Feature"
+msgstr ""
+
+#: classes/options/Overview.php:42
+msgid "PostX plugin helps to create beautiful post grid, post listing, dynamic post slider and post carousel within a few seconds."
+msgstr ""
+
+#: classes/options/Overview.php:44
+msgid "Custom Taxonomy Support."
+msgstr ""
+
+#: classes/options/Overview.php:45
+msgid "Block Layout Options."
+msgstr ""
+
+#: classes/options/Overview.php:46
+msgid "Ready-made Start Packs."
+msgstr ""
+
+#: classes/options/Overview.php:47
+msgid "Advanced Quick Query Feature."
+msgstr ""
+
+#: classes/options/Overview.php:48
+msgid "Get Category Specific Color and Image Feature."
+msgstr ""
+
+#: classes/options/Overview.php:49
+msgid "Get All Blocks with Complete Control."
+msgstr ""
+
+#: classes/options/Overview.php:50
+msgid "Get Fast & Quick Support."
+msgstr ""
+
+#: classes/options/Overview.php:53
+msgid "Upgrade Pro  ➤"
+msgstr ""
+
+#: classes/options/Overview.php:63
+msgid "Advanced <strong>Query</strong> Builder"
+msgstr ""
+
+#: classes/options/Overview.php:66
+msgid "<strong>AJAX</strong> Powered Post Filter"
+msgstr ""
+
+#: classes/options/Overview.php:69
+msgid "Quick <strong>Query</strong> Builder"
+msgstr ""
+
+#: classes/options/Overview.php:72
+msgid "Ready-made <strong>Starter</strong> Packs"
+msgstr ""
+
+#: classes/options/Overview.php:75
+msgid "Premade <strong>Block</strong> Designs"
+msgstr ""
+
+#: classes/options/Overview.php:86
+msgid "Design Library"
+msgstr ""
+
+#: classes/options/Overview.php:87
+msgid "PostX comes with a rich and beautiful ready-made starter pack and design library. It helps you create a beautiful website without the knowledge of web design."
+msgstr ""
+
+#: classes/options/Overview.php:88
+msgid "Explore Details"
+msgstr ""
+
+#: classes/options/Overview.php:102
+msgid "AJAX Powered Post Filter"
+msgstr ""
+
+#: classes/options/Overview.php:103
+msgid "A category or tag filter is the best tool to show several contents in a small place. By clicking on category or tag users can easily read the content they are interested in."
+msgstr ""
+
+#: classes/options/Overview.php:111
+msgid "Advanced Pagination Options"
+msgstr ""
+
+#: classes/options/Overview.php:112
+msgid "PostX comes with an AJAX-powered Pagination system, that’s why content is loaded without reloading the whole page."
+msgstr ""
+
+#: classes/options/Overview.php:120
+msgid "Awesome Typography Control"
+msgstr ""
+
+#: classes/options/Overview.php:121
+msgid "Typography is one of the major concerns for readability. PostX accumulates all the Google free fonts in one place for your convenience."
+msgstr ""
+
+#: classes/options/Overview.php:129
+msgid "Dynamic Post Slider"
+msgstr ""
+
+#: classes/options/Overview.php:130
+msgid "Post Sliders are now easier to build using our post slider blocks. It is fully dynamic and can be used with any custom query to display your posts."
+msgstr ""
+
+#: classes/options/Settings.php:41
+#: classes/options/Settings.php:45
+msgid "General Settings"
+msgstr ""
+
+#: classes/options/Settings.php:49
+msgid "CSS Add Via"
+msgstr ""
+
+#: classes/options/Settings.php:51
+msgid "Header - (Internal)"
+msgstr ""
+
+#: classes/options/Settings.php:52
+msgid "File System - (External)"
+msgstr ""
+
+#: classes/options/Settings.php:55
+msgid "Select where you want to save CSS."
+msgstr ""
+
+#: classes/options/Settings.php:59
+msgid "Preloader Style"
+msgstr ""
+
+#: classes/options/Settings.php:61
+msgid "Preloader Style 1"
+msgstr ""
+
+#: classes/options/Settings.php:62
+msgid "Preloader Style 2"
+msgstr ""
+
+#: classes/options/Settings.php:65
+msgid "Select Preloader Style."
+msgstr ""
+
+#: classes/options/Settings.php:69
+msgid "Container Width"
+msgstr ""
+
+#: classes/options/Settings.php:71
+msgid "Change Container Width of the Page Template(PostX Template)."
+msgstr ""
+
+#: classes/options/Settings.php:75
+msgid "Editor Container"
+msgstr ""
+
+#: classes/options/Settings.php:77
+msgid "Full Width"
+msgstr ""
+
+#: classes/options/Settings.php:78
+msgid "Theme Default"
+msgstr ""
+
+#: classes/options/Settings.php:81
+msgid "Select Editor Container Width."
+msgstr ""
+
+#: classes/options/Settings.php:85
+msgid "Hide Import Button"
+msgstr ""
+
+#: classes/options/Settings.php:87
+msgid "Hide Import Layout Button from the Gutenberg Editor."
+msgstr ""
+
+#: classes/options/Settings.php:91
+msgid "Disable Image Size"
+msgstr ""
+
+#: classes/options/Settings.php:93
+msgid "Disable Image Size of the Plugins."
+msgstr ""
+
+#: classes/options/Settings.php:145
+msgid "Released on "
+msgstr ""
+
+#: classes/options/Settings.php:147
+msgid "Version"
+msgstr ""
+
+#: classes/options/Settings.php:271
+msgid "Changelog"
+msgstr ""
+
+#: classes/Styles.php:102
+#: classes/Styles.php:119
+msgid "Data retrive done"
+msgstr ""
+
+#: classes/Styles.php:104
+#: classes/Styles.php:121
+msgid "Data not found!!"
+msgstr ""
+
+#: classes/Styles.php:154
+msgid "CSS can not be saved due to permission!!!"
+msgstr ""
+
+#: classes/Styles.php:157
+msgid "PostX css file has been updated."
+msgstr ""
+
+#: classes/Styles.php:164
+msgid "Data Delete Done"
+msgstr ""
+
+#: classes/Templates.php:56
+msgid "PostX Template"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Setting"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Advanced"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Add Text..."
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Heading"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Display heading or title with the ultimate controls."
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "See Demo"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "heading"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "title"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "section"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Heading Example."
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Upload Image"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Image Alt Text"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Link Type"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Link"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Button"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Link Target"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Self"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Blank"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Button Text"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Button Link"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Button Link Target"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Button Position"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Left Top"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Right Top"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Center Center"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Bottom Left"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Bottom Right"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Enable Caption"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Style"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Image Align"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Caption"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Alignment"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Caption Color"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Caption Typography"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Caption Margin"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Display images with the ultimate controls."
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Media"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Gallery"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "No Posts found"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Loading..."
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Posts are not available"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Make sure Add Post."
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Design"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Equal Height"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Img Spacing"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Loading Color"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Post Grid in the classic style."
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Post Grid"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Grid View"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Article"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Post Listing"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Height"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Post Grid with gradient images in overlay style."
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Layout 1"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Layout 2"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Layout 3"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Layout 4"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Layout 5"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Columns"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Small Item Excerpt"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Small Item Read More"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Small Item Meta"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Small Item Category"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Typography Large Title"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Post Grid with big posts on top in overlay style."
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Flip"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Pagination Type"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "None"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Navigation"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Post Grid with big posts on left in overlay style."
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Gap"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Meta Small Item"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Post Grid with big posts on left in tiles overlay style."
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Post Grid in gradient display with tile blocks."
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Post Grid with gradient display in vertical overlay."
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Listing your posts in the classic style."
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Listing"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "List View"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Image Flip"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Vertical Align"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Top"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Middle"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Bottom"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Small Item Button"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Typography Large Item"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Padding Large Item"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Large Img Spacing"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Large Image Height"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Large Item Space"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Listing our posts with a big post at the top."
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Post List"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Listing your posts with images on the left side."
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Large Image Space"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Listing your posts with a big image on top and small images at the bottom."
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Small Vertical Align"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Display your big posts on the left and small posts on right."
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Post Module"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Latest Post"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Listing your posts with big posts on the top."
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Animation Fade"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Horizontal Position"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Left"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Center"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Right"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Post Slider"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Post Carousel"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Slide"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Layout 6"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Layout 7"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Layout 8"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Show Count"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Column Gap"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Row Gap"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Hover Animation"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "No Animation"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Zoom In"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Zoom Out"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Opacity"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Slide Left"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Slide Right"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Specific Color (Pro)"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Choose Color"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Taxonomy Specific (Pro)"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Background Color"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Hover Background Color"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Border Color"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Border Size"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Border Style"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Solid"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Dashed"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Dotted"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Double"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Listing your Taxonomy in grid / list view."
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Category List"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Wrapper"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Wrapper block for Gutenberg."
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "wrapper"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "wrap"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "column"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Category Style"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Classic"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Left Border"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Right Border"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Both Side Border"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Position"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Above Title"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Over Image(Top Left)"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Over Image(Top Right)"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Over Image(Bottom Left)"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Over Image(Bottom Right)"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Over Image(Center)"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Line Width"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Line Spacing"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Typography"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Category Specific (Pro)"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Only Category Color (Pro)"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Normal"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Color"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Line Color"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Border"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Hover"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Hover Color"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Hover Bg Color"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Line Hover Color"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Hover Border"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Border Radius"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Spacing"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Padding"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "BoxShadow"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Hover Radius"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Hover BoxShadow"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "layout View"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Costom Grid"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Slide View"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Number of Posts"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Number of Slide"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Custom Grid"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "layout 1"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "layout 2"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "layout 3"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Auto Play"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Slide Speed"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Dots"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Arrows"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Title"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Excerpt"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Meta"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Filter"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Pagination"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Content Tag"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Links Open in New Tabs"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Read More Text"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Icon Style"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Angle"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Arrow"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Long Arrow"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Icon Size"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Width"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Arrow Style"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Style 1"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Style 2"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Style 3"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Size"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Vertical Position"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Space"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Active"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Quick Query"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "- Select Advance Query -"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Sticky Post"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Most Comments"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Most Comments (1 Day)"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Most Comments (7 Days)"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Most Comments (30 Days)"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Popular Posts (1 Day - View Counter)"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Popular Posts (7 Days - View Counter)"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Popular Posts (30 Days - View Counter)"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Popular Posts (All Time - View Counter)"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Random Posts"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Random Posts (7 Days)"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Random Posts (30 Days)"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Latest Posts - Published Date"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Latest Posts - Last Modified Date"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Oldest Posts - Published Date"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Oldest Posts - Last Modified Date"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Alphabetical ASC"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Alphabetical DESC"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Post Type"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Taxonomy Value"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Order By"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Comment Count"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Meta Value Number"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Menu Order"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Date"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Last Modified Date"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Random"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Meta Key"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Order"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "ASC"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "DESC"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Include Post"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Note: Separate post id with comma"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Exclude Post"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Offset Post"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Content Position"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Content Background"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Inner Padding"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Add Heading"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Heading Style"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Style 4"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Style 5"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Style 6"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Style 7"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Style 8"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Style 9"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Style 10"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Style 11"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Style 12"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Style 13"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Style 14"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Style 15"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Style 16"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Style 17"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Style 18"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Style 19"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Style 20"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Heading Tag"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Heading URL"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Background"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Background 2"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Border Color 2"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Button Typography"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Button Color"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Button Hover Color"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Sub Heading"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Sub Heading Text"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Large Item"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Small Item"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Rotate Left"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Rotate Right"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Gray Scale"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Radius"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Hover Gray Scale"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Margin"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Overlay"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Overlay Type"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Default"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Simple Gradient"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Multi Color"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Flat"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Custom"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Custom Color"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Overlay Opacity"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Title Tag"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "H1"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "H2"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "H3"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "H4"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "H5"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "H6"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "span"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "div"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Meta Under Title"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Meta Position"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "No Icon"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "With Icon"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Style2"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Style3"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Style4"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Style5"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Style6"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Separator"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Dot"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Slash"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Double Slash"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Close"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Dash"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Vertical Bar"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Empty"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Author"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Modified Date"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Comment"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "View Count"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Date Time"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Reading Time"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Show Full Excerpt"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Excerpt Limit"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "All Content Text"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Filter Type"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Filter Value"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Dropdown Text Color"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Dropdown Hover Color"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Dropdown Background"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Dropdown Radius"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Dropdown Padding"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Show Separator"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Load More"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Loadmore Text"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Pagination Text"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Text & Arrow"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Only Arrow"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Ajax Pagination"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Navigation Position"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Top Right"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Arrow Size"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "ID"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "z-index"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Add {{ULTP}} before the selector to wrap element."
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Hide On Extra Large Display"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Hide On Desktop"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Hide On Tablet"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Hide On Mobile"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Query Type"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Regular"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Child Of"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Parent"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Taxonomy Type"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Number of Post"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Taxonomy Specific Color (Pro)"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Hover Opacity"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Layout"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "General"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Query"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Button Style"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Content Wrap"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Content"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Count Style"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Custom CSS"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Responsive"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Ready-made Design"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Taxonomy Query"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Wrap Style"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid " comment"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "ago"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Content Animation"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Slide Up"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Slide Down"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "To Unlock all Settings"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Upgrade Pro"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Left Center"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Left Bottom"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Right Center"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Right Bottom"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Center Top"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Center Bottom"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Scroll"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Fixed"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "No Repeat"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Repeat"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Repeat X"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Repeat Y"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Auto"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Cover"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Contain"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Animated"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Type"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Gradient"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Video"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Clear"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Background Image"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Parallax"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Attachment"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Video Source"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Local"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "External"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Video URL"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Fallback Image (Poster)"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Ridge"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Groove"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Border Width"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Shadow"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Inset"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "To Enable This Feature"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Radial Pointer"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Top Left"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Direction"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Color 1 Angle"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Color 1"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Color 2 Angle"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Color 2"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Target Blank"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "No Follow"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "image"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Upload"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Premium"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Get License"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Import"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Inherit"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Capitalize"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Lowercase"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Uppercase"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Italic"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Oblique"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Underline"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Overline"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Line Through"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Select Font"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Font Size"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Line Height"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Letter Spacing"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Font Weight"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Transform"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Decoration"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Readymade Block Design"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "All"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Large"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Medium"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Small"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Extra Small"
+msgstr ""
+
+#: assets/js/editor.blocks.min.js:1
+msgid "Block Library"
+msgstr ""
